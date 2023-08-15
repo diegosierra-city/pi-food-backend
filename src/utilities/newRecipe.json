@@ -1,0 +1,46 @@
+[
+{
+  "user_id": 1,
+ "title": "Pure de Papa", 
+ "image": "ninguna.jpg", 
+ "summary": "receta cacera", 
+ "healthScore": 80, 
+ "steps": [
+   {
+     "number": 1,
+     "step": "Pele y pique las papas"
+   },
+   {
+     "number": 2,
+     "step": "cocinelas con sal, ajo y comino"
+   }
+   ], 
+ "diets": [4,8]
+},
+
+{
+ "title": "Pure de Papa", 
+ "image": "ninguna.jpg", 
+ "summary": "receta cacera", 
+ "healthScore": 80, 
+ "steps": [
+   {
+     "number": 1,
+     "step": "Pele y pique las papas"
+   },
+   {
+     "number": 2,
+     "step": "cocinelas con sal, ajo y comino"
+   }
+   ], 
+ "diets": ["gluten free","fodmap friendly"]
+},
+
+{
+  "email": "diegosierra@cityciudad.com", 
+  "password": "123456",
+  "name": "Diego Sierra"
+ }
+
+]
+

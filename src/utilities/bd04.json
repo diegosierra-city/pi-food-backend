@@ -1,0 +1,1028 @@
+{
+ "vegetarian": true,
+ "vegan": true,
+ "glutenFree": true,
+ "dairyFree": true,
+ "veryHealthy": false,
+ "cheap": false,
+ "veryPopular": false,
+ "sustainable": false,
+ "lowFodmap": false,
+ "weightWatcherSmartPoints": 25,
+ "gaps": "no",
+ "preparationMinutes": 10,
+ "cookingMinutes": 28,
+ "aggregateLikes": 37,
+ "healthScore": 45,
+ "creditsText": "tarladalal.com",
+ "sourceName": "tarladalal.com",
+ "pricePerServing": 336.3,
+ "extendedIngredients": [
+   {
+     "id": 1012006,
+     "aisle": "Spices and Seasonings",
+     "image": "black-cardamom.jpg",
+     "consistency": "SOLID",
+     "name": "black cardamoms",
+     "nameClean": "black cardamoms",
+     "original": "3 cardamoms",
+     "originalName": "cardamoms",
+     "amount": 3,
+     "unit": "",
+     "meta": [],
+     "measures": {
+       "us": {
+         "amount": 3,
+         "unitShort": "",
+         "unitLong": ""
+       },
+       "metric": {
+         "amount": 3,
+         "unitShort": "",
+         "unitLong": ""
+       }
+     }
+   },
+   {
+     "id": 10011135,
+     "aisle": "Produce",
+     "image": "cauliflower.jpg",
+     "consistency": "SOLID",
+     "name": "cauliflower florets",
+     "nameClean": "cauliflower florets",
+     "original": "1 1/2 cups cauliflower florets",
+     "originalName": "cauliflower florets",
+     "amount": 1.5,
+     "unit": "cups",
+     "meta": [],
+     "measures": {
+       "us": {
+         "amount": 1.5,
+         "unitShort": "cups",
+         "unitLong": "cups"
+       },
+       "metric": {
+         "amount": 150,
+         "unitShort": "g",
+         "unitLong": "grams"
+       }
+     }
+   },
+   {
+     "id": 11819,
+     "aisle": "Produce",
+     "image": "red-chili.jpg",
+     "consistency": "SOLID",
+     "name": "chilli",
+     "nameClean": "chili pepper",
+     "original": "1 whole dry red chilli , broken into pieces",
+     "originalName": "whole dry red chilli , broken into pieces",
+     "amount": 1,
+     "unit": "",
+     "meta": [
+       "dry red",
+       "whole"
+     ],
+     "measures": {
+       "us": {
+         "amount": 1,
+         "unitShort": "",
+         "unitLong": ""
+       },
+       "metric": {
+         "amount": 1,
+         "unitShort": "",
+         "unitLong": ""
+       }
+     }
+   },
+   {
+     "id": 2009,
+     "aisle": "Spices and Seasonings",
+     "image": "chili-powder.jpg",
+     "consistency": "SOLID",
+     "name": "chilli powder",
+     "nameClean": "chili powder",
+     "original": "1/2 tsp chilli powder",
+     "originalName": "chilli powder",
+     "amount": 0.5,
+     "unit": "tsp",
+     "meta": [],
+     "measures": {
+       "us": {
+         "amount": 0.5,
+         "unitShort": "tsps",
+         "unitLong": "teaspoons"
+       },
+       "metric": {
+         "amount": 0.5,
+         "unitShort": "tsps",
+         "unitLong": "teaspoons"
+       }
+     }
+   },
+   {
+     "id": 2010,
+     "aisle": "Spices and Seasonings",
+     "image": "cinnamon.jpg",
+     "consistency": "SOLID",
+     "name": "cinnamon",
+     "nameClean": "cinnamon",
+     "original": "25 mm (1\") piece cinnamon (dalchini)",
+     "originalName": "mm (1\") piece cinnamon (dalchini)",
+     "amount": 25,
+     "unit": "",
+     "meta": [
+       "(1\")",
+       "(dalchini)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 25,
+         "unitShort": "",
+         "unitLong": ""
+       },
+       "metric": {
+         "amount": 25,
+         "unitShort": "",
+         "unitLong": ""
+       }
+     }
+   },
+   {
+     "id": 12104,
+     "aisle": "Produce",
+     "image": "coconut.jpg",
+     "consistency": "SOLID",
+     "name": "coconut",
+     "nameClean": "coconut",
+     "original": "1/2 cup freshly grated coconut",
+     "originalName": "freshly grated coconut",
+     "amount": 0.5,
+     "unit": "cup",
+     "meta": [
+       "freshly grated"
+     ],
+     "measures": {
+       "us": {
+         "amount": 0.5,
+         "unitShort": "cups",
+         "unitLong": "cups"
+       },
+       "metric": {
+         "amount": 40,
+         "unitShort": "ml",
+         "unitLong": "milliliters"
+       }
+     }
+   },
+   {
+     "id": 12118,
+     "aisle": "Canned and Jarred;Milk, Eggs, Other Dairy",
+     "image": "coconut-milk.png",
+     "consistency": "LIQUID",
+     "name": "coconut milk",
+     "nameClean": "coconut milk",
+     "original": "2 cups coconut milk (nariyal ka doodh)",
+     "originalName": "coconut milk (nariyal ka doodh)",
+     "amount": 2,
+     "unit": "cups",
+     "meta": [
+       "(nariyal ka doodh)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 2,
+         "unitShort": "cups",
+         "unitLong": "cups"
+       },
+       "metric": {
+         "amount": 452,
+         "unitShort": "ml",
+         "unitLong": "milliliters"
+       }
+     }
+   },
+   {
+     "id": 2013,
+     "aisle": "Spices and Seasonings",
+     "image": "coriander-seeds.jpg",
+     "consistency": "SOLID",
+     "name": "coriander seeds",
+     "nameClean": "whole coriander seeds",
+     "original": "1 tsp coriander (dhania) seeds",
+     "originalName": "coriander (dhania) seeds",
+     "amount": 1,
+     "unit": "tsp",
+     "meta": [
+       "(dhania)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 1,
+         "unitShort": "tsp",
+         "unitLong": "teaspoon"
+       },
+       "metric": {
+         "amount": 1,
+         "unitShort": "tsp",
+         "unitLong": "teaspoon"
+       }
+     }
+   },
+   {
+     "id": 2014,
+     "aisle": "Spices and Seasonings",
+     "image": "ground-cumin.jpg",
+     "consistency": "SOLID",
+     "name": "cumin seeds",
+     "nameClean": "cumin seeds",
+     "original": "1/2 tsp cumin seeds (jeera)",
+     "originalName": "cumin seeds (jeera)",
+     "amount": 0.5,
+     "unit": "tsp",
+     "meta": [
+       "(jeera)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 0.5,
+         "unitShort": "tsps",
+         "unitLong": "teaspoons"
+       },
+       "metric": {
+         "amount": 0.5,
+         "unitShort": "tsps",
+         "unitLong": "teaspoons"
+       }
+     }
+   },
+   {
+     "id": 93604,
+     "aisle": "Ethnic Foods",
+     "image": "curry-leaves.jpg",
+     "consistency": "SOLID",
+     "name": "curry leaves",
+     "nameClean": "curry leaves",
+     "original": "4 to 5 curry leaves (kadi patta)",
+     "originalName": "to 5 curry leaves (kadi patta)",
+     "amount": 4,
+     "unit": "",
+     "meta": [
+       "(kadi patta)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 4,
+         "unitShort": "",
+         "unitLong": ""
+       },
+       "metric": {
+         "amount": 4,
+         "unitShort": "",
+         "unitLong": ""
+       }
+     }
+   },
+   {
+     "id": 2018,
+     "aisle": "Spices and Seasonings",
+     "image": "fennel-seeds.jpg",
+     "consistency": "SOLID",
+     "name": "fennel seeds",
+     "nameClean": "fennel seeds",
+     "original": "1 tsp fennel seeds (saunf)",
+     "originalName": "fennel seeds (saunf)",
+     "amount": 1,
+     "unit": "tsp",
+     "meta": [
+       "(saunf)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 1,
+         "unitShort": "tsp",
+         "unitLong": "teaspoon"
+       },
+       "metric": {
+         "amount": 1,
+         "unitShort": "tsp",
+         "unitLong": "teaspoon"
+       }
+     }
+   },
+   {
+     "id": 11215,
+     "aisle": "Produce",
+     "image": "garlic.png",
+     "consistency": "SOLID",
+     "name": "garlic",
+     "nameClean": "garlic",
+     "original": "6 cloves garlic (lehsun)",
+     "originalName": "garlic (lehsun)",
+     "amount": 6,
+     "unit": "cloves",
+     "meta": [
+       "(lehsun)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 6,
+         "unitShort": "cloves",
+         "unitLong": "cloves"
+       },
+       "metric": {
+         "amount": 6,
+         "unitShort": "cloves",
+         "unitLong": "cloves"
+       }
+     }
+   },
+   {
+     "id": 11216,
+     "aisle": "Produce;Ethnic Foods;Spices and Seasonings",
+     "image": "ginger.png",
+     "consistency": "SOLID",
+     "name": "ginger",
+     "nameClean": "ginger",
+     "original": "25 mm (1â€\ufffd) piece ginger (adrak)",
+     "originalName": "mm (1â€\ufffd) piece ginger (adrak)",
+     "amount": 25,
+     "unit": "",
+     "meta": [
+       "(1â€\ufffd)",
+       "(adrak)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 25,
+         "unitShort": "",
+         "unitLong": ""
+       },
+       "metric": {
+         "amount": 25,
+         "unitShort": "",
+         "unitLong": ""
+       }
+     }
+   },
+   {
+     "id": 11304,
+     "aisle": "Produce",
+     "image": "peas.jpg",
+     "consistency": "SOLID",
+     "name": "green peas",
+     "nameClean": "petite peas",
+     "original": "3/4 cup green peas",
+     "originalName": "green peas",
+     "amount": 0.75,
+     "unit": "cup",
+     "meta": [
+       "green"
+     ],
+     "measures": {
+       "us": {
+         "amount": 0.75,
+         "unitShort": "cups",
+         "unitLong": "cups"
+       },
+       "metric": {
+         "amount": 108.75,
+         "unitShort": "g",
+         "unitLong": "grams"
+       }
+     }
+   },
+   {
+     "id": 99144,
+     "aisle": "Pasta and Rice",
+     "image": "moth-bean.png",
+     "consistency": "SOLID",
+     "name": "mat beans",
+     "nameClean": "moth bean",
+     "original": "3/4 cup french beans , cut diagonally",
+     "originalName": "french beans , cut diagonally",
+     "amount": 0.75,
+     "unit": "cup",
+     "meta": [
+       "french"
+     ],
+     "measures": {
+       "us": {
+         "amount": 0.75,
+         "unitShort": "cups",
+         "unitLong": "cups"
+       },
+       "metric": {
+         "amount": 177.441,
+         "unitShort": "g",
+         "unitLong": "grams"
+       }
+     }
+   },
+   {
+     "id": 4582,
+     "aisle": "Oil, Vinegar, Salad Dressing",
+     "image": "vegetable-oil.jpg",
+     "consistency": "LIQUID",
+     "name": "oil",
+     "nameClean": "cooking oil",
+     "original": "1 tbsp oil",
+     "originalName": "oil",
+     "amount": 1,
+     "unit": "tbsp",
+     "meta": [],
+     "measures": {
+       "us": {
+         "amount": 1,
+         "unitShort": "Tbsp",
+         "unitLong": "Tbsp"
+       },
+       "metric": {
+         "amount": 1,
+         "unitShort": "Tbsp",
+         "unitLong": "Tbsp"
+       }
+     }
+   },
+   {
+     "id": 4582,
+     "aisle": "Oil, Vinegar, Salad Dressing",
+     "image": "vegetable-oil.jpg",
+     "consistency": "LIQUID",
+     "name": "oil",
+     "nameClean": "cooking oil",
+     "original": "3 tbsp oil",
+     "originalName": "oil",
+     "amount": 3,
+     "unit": "tbsp",
+     "meta": [],
+     "measures": {
+       "us": {
+         "amount": 3,
+         "unitShort": "Tbsps",
+         "unitLong": "Tbsps"
+       },
+       "metric": {
+         "amount": 3,
+         "unitShort": "Tbsps",
+         "unitLong": "Tbsps"
+       }
+     }
+   },
+   {
+     "id": 11282,
+     "aisle": "Produce",
+     "image": "brown-onion.png",
+     "consistency": "SOLID",
+     "name": "onions",
+     "nameClean": "onion",
+     "original": "1/2 cup chopped onions",
+     "originalName": "chopped onions",
+     "amount": 0.5,
+     "unit": "cup",
+     "meta": [
+       "chopped"
+     ],
+     "measures": {
+       "us": {
+         "amount": 0.5,
+         "unitShort": "cups",
+         "unitLong": "cups"
+       },
+       "metric": {
+         "amount": 80,
+         "unitShort": "g",
+         "unitLong": "grams"
+       }
+     }
+   },
+   {
+     "id": 2033,
+     "aisle": "Spices and Seasonings;Baking",
+     "image": "poppyseed.png",
+     "consistency": "SOLID",
+     "name": "poppy seeds",
+     "nameClean": "poppy seeds",
+     "original": "1 tbsp poppy seeds (khus-khus)",
+     "originalName": "poppy seeds (khus-khus)",
+     "amount": 1,
+     "unit": "tbsp",
+     "meta": [
+       "(khus-khus)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 1,
+         "unitShort": "Tbsp",
+         "unitLong": "Tbsp"
+       },
+       "metric": {
+         "amount": 1,
+         "unitShort": "Tbsp",
+         "unitLong": "Tbsp"
+       }
+     }
+   },
+   {
+     "id": 2047,
+     "aisle": "Spices and Seasonings",
+     "image": "salt.jpg",
+     "consistency": "SOLID",
+     "name": "salt",
+     "nameClean": "table salt",
+     "original": "salt to taste",
+     "originalName": "salt to taste",
+     "amount": 4,
+     "unit": "servings",
+     "meta": [
+       "to taste"
+     ],
+     "measures": {
+       "us": {
+         "amount": 4,
+         "unitShort": "servings",
+         "unitLong": "servings"
+       },
+       "metric": {
+         "amount": 4,
+         "unitShort": "servings",
+         "unitLong": "servings"
+       }
+     }
+   },
+   {
+     "id": 11529,
+     "aisle": "Produce",
+     "image": "tomato.png",
+     "consistency": "SOLID",
+     "name": "tomatoes",
+     "nameClean": "tomato",
+     "original": "3 tomatoes",
+     "originalName": "tomatoes",
+     "amount": 3,
+     "unit": "",
+     "meta": [],
+     "measures": {
+       "us": {
+         "amount": 3,
+         "unitShort": "",
+         "unitLong": ""
+       },
+       "metric": {
+         "amount": 3,
+         "unitShort": "",
+         "unitLong": ""
+       }
+     }
+   },
+   {
+     "id": 2043,
+     "aisle": "Spices and Seasonings",
+     "image": "turmeric.jpg",
+     "consistency": "SOLID",
+     "name": "turmeric powder",
+     "nameClean": "turmeric",
+     "original": "1/2 tsp turmeric powder (haldi)",
+     "originalName": "turmeric powder (haldi)",
+     "amount": 0.5,
+     "unit": "tsp",
+     "meta": [
+       "(haldi)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 0.5,
+         "unitShort": "tsps",
+         "unitLong": "teaspoons"
+       },
+       "metric": {
+         "amount": 0.5,
+         "unitShort": "tsps",
+         "unitLong": "teaspoons"
+       }
+     }
+   },
+   {
+     "id": -1,
+     "aisle": "?",
+     "image": null,
+     "consistency": "SOLID",
+     "name": "broken cashewnuts",
+     "nameClean": null,
+     "original": "2 tbsp broken cashewnuts (kaju)",
+     "originalName": "broken cashewnuts (kaju)",
+     "amount": 2,
+     "unit": "tbsp",
+     "meta": [
+       "(kaju)"
+     ],
+     "measures": {
+       "us": {
+         "amount": 2,
+         "unitShort": "Tbsps",
+         "unitLong": "Tbsps"
+       },
+       "metric": {
+         "amount": 2,
+         "unitShort": "Tbsps",
+         "unitLong": "Tbsps"
+       }
+     }
+   }
+ ],
+ "id": 782325,
+ "title": "Chettinad Curry ( Microwave )",
+ "readyInMinutes": 38,
+ "servings": 4,
+ "sourceUrl": "http://www.tarladalal.com/Chettinad-Curry-(-Microwave-Recipe-)-33860r",
+ "image": "https://spoonacular.com/recipeImages/782325-556x370.jpg",
+ "imageType": "jpg",
+ "summary": "The recipe Chettinad Curry ( Microwave ) could satisfy your Indian craving in about <b>38 minutes</b>. Watching your figure? This gluten free and vegan recipe has <b>601 calories</b>, <b>12g of protein</b>, and <b>44g of fat</b> per serving. This recipe serves 4 and costs $3.13 per serving. 37 people were impressed by this recipe. A mixture of cumin seeds, oil, cauliflower florets, and a handful of other ingredients are all it takes to make this recipe so tasty. It is brought to you by tarladalal.com. Taking all factors into account, this recipe <b>earns a spoonacular score of 91%</b>, which is spectacular. Try <a href=\"https://spoonacular.com/recipes/chettinad-egg-curry-769533\">chettinad egg curry</a>, <a href=\"https://spoonacular.com/recipes/chettinad-curry-eggs-127912\">Chettinad Curry Eggs</a>, and <a href=\"https://spoonacular.com/recipes/vegetable-curry-microwave-101143\">Vegetable Curry (Microwave)</a> for similar recipes.",
+ "cuisines": [
+   "Indian",
+   "Asian"
+ ],
+ "dishTypes": [
+   "lunch",
+   "main course",
+   "main dish",
+   "dinner"
+ ],
+ "diets": [
+   "gluten free",
+   "dairy free",
+   "lacto ovo vegetarian",
+   "vegan"
+ ],
+ "occasions": [],
+ "winePairing": {
+   "pairedWines": [
+     "riesling",
+     "gruener veltliner",
+     "sparkling rose"
+   ],
+   "pairingText": "Riesling, Gruener Veltliner, and Sparkling rosé are my top picks for Indian. The best wine for Indian food will depending on the dish, of course, but these picks can be served chilled and have some sweetness to complement the spiciness and complex flavors of a wide variety of traditional dishes. You could try Caves Roger Goulart Gran Reserva Cava. Reviewers quite like it with a 4.7 out of 5 star rating and a price of about 22 dollars per bottle.",
+   "productMatches": [
+     {
+       "id": 497872,
+       "title": "Caves Roger Goulart Gran Reserva Cava",
+       "description": "The wines employed for cava production are chosen with great care and are subject to a minimum ageing period of four years. After 24 months – and once a year – the bottles in ageing are subject to the déplacé technique, which consists of shaking the bottles in order to homogenize the yeast and obtain a greater extraction in terms of their aromatic and taste potential, over their more than 48 months of ageing. The result is a delicate cava with a pale yellow coloring, light golden tones, and an incredible sparkle, as well as interesting, complex and powerful bouquets.Blend: 60% Xare-lo, 20% Macabeo and 20% Parellada",
+       "price": "$21.989999771118164",
+       "imageUrl": "https://spoonacular.com/productImages/497872-312x231.jpg",
+       "averageRating": 0.9399999976158142,
+       "ratingCount": 5,
+       "score": 0.8774999976158142,
+       "link": "https://click.linksynergy.com/deeplink?id=*QCiIS6t4gA&mid=2025&murl=https%3A%2F%2Fwww.wine.com%2Fproduct%2Fcaves-roger-goulart-gran-reserva-cava-2011%2F659997"
+     }
+   ]
+ },
+ "instructions": "For the chettinad masalaPlace 1 cup of water in a microwave safe bowl and microwave on high for 2 minutes. Remove from the microwave and soak the poppy seeds and cashewnuts in it for 5 minutes. Keep aside.Add the oil in a microwave safe bowl and microwave on high for 1 minute, add all the remaining ingredients, mix well and microwave on high for 2 minutes. Keep aside to cool.Add the cashewnuts, poppy seeds and  cup of water and blend in a mixer to a smooth paste. Keep aside.How to proceedMake 4 slits on the tomatoes and place them on a microwave safe dish and microwave on high for 2 minutes.Remove, de-skin and deseed the tomatoes. Chop them finely and keep aside.Combine the mixed vegetables with  cup of water and microwave on high for 12 minutes. Drain and keep aside.Add the oil in another microwave safe bowl and microwave on high for 1 minute, add the onions, garlic and ginger, mix well and microwave on high for 2 minutes.Add the tomatoes, salt, turmeric powder and chilli powder, mix well and microwave on high for 2 minutes.Add the ground paste and curry leaves and microwave on high for 2 minutes.Add the cooked vegetables and coconut milk, mix well and microwave on high for 2 minutes.Serve immediately.",
+ "analyzedInstructions": [
+   {
+     "name": "",
+     "steps": [
+       {
+         "number": 1,
+         "step": "For the chettinad masala",
+         "ingredients": [],
+         "equipment": []
+       },
+       {
+         "number": 2,
+         "step": "Place 1 cup of water in a microwave safe bowl and microwave on high for 2 minutes.",
+         "ingredients": [
+           {
+             "id": 14412,
+             "name": "water",
+             "localizedName": "water",
+             "image": "water.png"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           },
+           {
+             "id": 404783,
+             "name": "bowl",
+             "localizedName": "bowl",
+             "image": "bowl.jpg"
+           }
+         ],
+         "length": {
+           "number": 2,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 3,
+         "step": "Remove from the microwave and soak the poppy seeds and cashewnuts in it for 5 minutes. Keep aside.",
+         "ingredients": [
+           {
+             "id": 2033,
+             "name": "poppy seeds",
+             "localizedName": "poppy seeds",
+             "image": "poppyseed.png"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           }
+         ],
+         "length": {
+           "number": 5,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 4,
+         "step": "Add the oil in a microwave safe bowl and microwave on high for 1 minute, add all the remaining ingredients, mix well and microwave on high for 2 minutes. Keep aside to cool.",
+         "ingredients": [
+           {
+             "id": 4582,
+             "name": "cooking oil",
+             "localizedName": "cooking oil",
+             "image": "vegetable-oil.jpg"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           },
+           {
+             "id": 404783,
+             "name": "bowl",
+             "localizedName": "bowl",
+             "image": "bowl.jpg"
+           }
+         ],
+         "length": {
+           "number": 3,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 5,
+         "step": "Add the cashewnuts, poppy seeds and  cup of water and blend in a mixer to a smooth paste. Keep aside.How to proceed",
+         "ingredients": [
+           {
+             "id": 2033,
+             "name": "poppy seeds",
+             "localizedName": "poppy seeds",
+             "image": "poppyseed.png"
+           },
+           {
+             "id": 14412,
+             "name": "water",
+             "localizedName": "water",
+             "image": "water.png"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404726,
+             "name": "blender",
+             "localizedName": "blender",
+             "image": "blender.png"
+           }
+         ]
+       },
+       {
+         "number": 6,
+         "step": "Make 4 slits on the tomatoes and place them on a microwave safe dish and microwave on high for 2 minutes.",
+         "ingredients": [
+           {
+             "id": 11529,
+             "name": "tomato",
+             "localizedName": "tomato",
+             "image": "tomato.png"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           }
+         ],
+         "length": {
+           "number": 2,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 7,
+         "step": "Remove, de-skin and deseed the tomatoes. Chop them finely and keep aside.",
+         "ingredients": [
+           {
+             "id": 11529,
+             "name": "tomato",
+             "localizedName": "tomato",
+             "image": "tomato.png"
+           }
+         ],
+         "equipment": []
+       },
+       {
+         "number": 8,
+         "step": "Combine the mixed vegetables with  cup of water and microwave on high for 12 minutes.",
+         "ingredients": [
+           {
+             "id": 11583,
+             "name": "mixed vegetables",
+             "localizedName": "mixed vegetables",
+             "image": "mixed-vegetables.png"
+           },
+           {
+             "id": 14412,
+             "name": "water",
+             "localizedName": "water",
+             "image": "water.png"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           }
+         ],
+         "length": {
+           "number": 12,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 9,
+         "step": "Drain and keep aside.",
+         "ingredients": [],
+         "equipment": []
+       },
+       {
+         "number": 10,
+         "step": "Add the oil in another microwave safe bowl and microwave on high for 1 minute, add the onions, garlic and ginger, mix well and microwave on high for 2 minutes.",
+         "ingredients": [
+           {
+             "id": 11215,
+             "name": "garlic",
+             "localizedName": "garlic",
+             "image": "garlic.png"
+           },
+           {
+             "id": 11216,
+             "name": "ginger",
+             "localizedName": "ginger",
+             "image": "ginger.png"
+           },
+           {
+             "id": 11282,
+             "name": "onion",
+             "localizedName": "onion",
+             "image": "brown-onion.png"
+           },
+           {
+             "id": 4582,
+             "name": "cooking oil",
+             "localizedName": "cooking oil",
+             "image": "vegetable-oil.jpg"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           },
+           {
+             "id": 404783,
+             "name": "bowl",
+             "localizedName": "bowl",
+             "image": "bowl.jpg"
+           }
+         ],
+         "length": {
+           "number": 3,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 11,
+         "step": "Add the tomatoes, salt, turmeric powder and chilli powder, mix well and microwave on high for 2 minutes.",
+         "ingredients": [
+           {
+             "id": 2043,
+             "name": "turmeric",
+             "localizedName": "turmeric",
+             "image": "turmeric.jpg"
+           },
+           {
+             "id": 2009,
+             "name": "chili powder",
+             "localizedName": "chili powder",
+             "image": "chili-powder.jpg"
+           },
+           {
+             "id": 11529,
+             "name": "tomato",
+             "localizedName": "tomato",
+             "image": "tomato.png"
+           },
+           {
+             "id": 2047,
+             "name": "salt",
+             "localizedName": "salt",
+             "image": "salt.jpg"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           }
+         ],
+         "length": {
+           "number": 2,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 12,
+         "step": "Add the ground paste and curry leaves and microwave on high for 2 minutes.",
+         "ingredients": [
+           {
+             "id": 93604,
+             "name": "curry leaves",
+             "localizedName": "curry leaves",
+             "image": "curry-leaves.jpg"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           }
+         ],
+         "length": {
+           "number": 2,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 13,
+         "step": "Add the cooked vegetables and coconut milk, mix well and microwave on high for 2 minutes.",
+         "ingredients": [
+           {
+             "id": 12118,
+             "name": "coconut milk",
+             "localizedName": "coconut milk",
+             "image": "coconut-milk.png"
+           },
+           {
+             "id": 11583,
+             "name": "vegetable",
+             "localizedName": "vegetable",
+             "image": "mixed-vegetables.png"
+           }
+         ],
+         "equipment": [
+           {
+             "id": 404762,
+             "name": "microwave",
+             "localizedName": "microwave",
+             "image": "microwave.jpg"
+           }
+         ],
+         "length": {
+           "number": 2,
+           "unit": "minutes"
+         }
+       },
+       {
+         "number": 14,
+         "step": "Serve immediately.",
+         "ingredients": [],
+         "equipment": []
+       }
+     ]
+   }
+ ],
+ "originalId": null
+}

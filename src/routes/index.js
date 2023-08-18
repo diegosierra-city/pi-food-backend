@@ -19,7 +19,7 @@ router.get('/recipes/:idRecipe', getRecipeById);
 
 router.get('/recipes', getRecipeByName);
 
-router.get('/recipes-all', getAllRecipes);
+//router.get('/recipes-all', getAllRecipes);
 
 router.post('/recipes', postRecipe);
 
